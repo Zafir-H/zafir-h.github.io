@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: Getting Started
+- title: Academic
   url: /getting-started/
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: 奇闻趣事
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "To Know What You Unknow"
   image: 400x250.gif
 
-- title: 段子
+- title: 开心时刻
   url: /duanzi/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
@@ -22,5 +22,5 @@
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "Who Am I"
   image: 400x250.gif
