@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "小黄讲段子"
+title: "Zafir HUANG"
 description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
@@ -28,8 +28,8 @@ gems:
 owner:
   name: "Zafir H."
   web: "https://zafir-h.github.io"
-  twitter: "mmistakes"
-  bio: "我就是来试试的~"
+  bio: "-Valar Morghulis;
+          -Valar Dohaeris"
   avatar: "bio-photo.jpg" # 160x160 px image for author byline
   google:
     plus: "+MichaelRoseDesign"
