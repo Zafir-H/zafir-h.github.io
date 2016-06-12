@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "喝咖啡"
-categories: 段子
+categories: duanzi
 tags: [咖啡]
 comments: true
 ads: false
